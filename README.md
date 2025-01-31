@@ -18,6 +18,6 @@ Each project is stored in a separate folder with its own README file and code.
 git clone https://github.com/YourUsername/Digital-Empowerment-Pakistan-Internship.git
 2. Navigate to the project folder you want to explore.
 3. Follow the instructions in its **README.md**.
-
+4. 
 ### 🔗 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/minhajasghar) | [GitHub](https://github.com/minhajasghar)
+[LinkedIn](https://www.linkedin.com/in/m-minhaj-asghar-7b99ba296/)

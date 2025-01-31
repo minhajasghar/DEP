@@ -15,9 +15,9 @@ Each project is stored in a separate folder with its own README file and code.
 
 ## 🚀 How to Use This Repository?
 1. Clone the repository:
-git clone https://github.com/YourUsername/Digital-Empowerment-Pakistan-Internship.git
+git clone https://github.com/minhajasghar/DEP-Virtual-Internship.git
 2. Navigate to the project folder you want to explore.
 3. Follow the instructions in its **README.md**.
 
 ### 🔗 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/m-minhaj-asghar-7b99ba296/)
+[LinkedIn](https://www.linkedin.com/in/minhajasghar)
